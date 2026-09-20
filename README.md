@@ -72,6 +72,7 @@ https://github.com/ZlataB/Git-netology/commit/3d2cf23ea30d4069e74fea555967e279c0
 
 ![скрин для Git](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
 
+https://github.com/ZlataB/Git-netology/network
 ---
 ## Дополнительные задания* (со звёздочкой)
 
