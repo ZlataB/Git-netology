@@ -36,8 +36,8 @@
 1. Теперь можно сделать коммит `git commit -m 'First commit'`.
 1. Сделайте `git push origin master`.
 
-В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-
+В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением:
+https://github.com/ZlataB/Git-netology/commit/cef6198e00d208d039dc5e1d228bb2c801f52238#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R96
 ---
 
 ### Задание 2
