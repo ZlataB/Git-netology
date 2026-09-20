@@ -50,7 +50,7 @@ https://github.com/ZlataB/Git-netology/commit/cef6198e00d208d039dc5e1d228bb2c801
 1. Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-
+https://github.com/ZlataB/Git-netology/commit/3d2cf23ea30d4069e74fea555967e279c0155782
 ---
 
 ### Задание 3
